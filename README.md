@@ -32,6 +32,8 @@ simplebages.: [ https://github.com/developStorm/simple-badges/blob/master/README
 
 ## Table of Contents
 
+### Mechanics
+
 #### 1.0 [Method :: Title of method 1](WIKIME/1-mechanics#method--title-of-method-1)
 
 #### 1.1 [Observation](WIKIME/1-mechanics#observation)
@@ -42,6 +44,8 @@ simplebages.: [ https://github.com/developStorm/simple-badges/blob/master/README
 
 #### 1.4 [Rhetoric](WIKIME/1-mechanics#rhetoric)
 
+### Applications
+
 #### 2.0 [Method :: Title of method 1](WIKIME/2-applications#method--title-of-method-1)
 
 #### 2.1 [Observation](WIKIME/2-applications#observation)
@@ -51,6 +55,8 @@ simplebages.: [ https://github.com/developStorm/simple-badges/blob/master/README
 #### 2.3 [Logic](WIKIME/2-applications#logic)
 
 #### 2.4 [Rhetoric](WIKIME/2-applications#rhetoric)
+
+### Concepts
 
 #### 3.0 [Method :: Title of method 1](WIKIME/3-concepts#method--title-of-method-1)
 
