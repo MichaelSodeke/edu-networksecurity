@@ -1,6 +1,6 @@
-[submodule "repo-name-1"]
-    path = repo-name-1
-    url = https://github.com/<user>/<repo-name-1>.git
+[submodule "net-M--vork"]
+    path = net-M--vork
+    url = https://github.com/MichaelSodeke/net-M--vork.git
 [submodule "repo-name-2"]
     path = repo-name-2
     url = https://github.com/<user>/<repo-name-2>.git
